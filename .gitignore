@@ -1,0 +1,9 @@
+# Arduino / ESP32 Build artifacts
+build/
+.pio/
+.vscode/
+
+# OS metadata
+.DS_Store
+*.swp
+*.bak
